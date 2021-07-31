@@ -1,0 +1,4 @@
+build
+.ipynb_checkpoints
+build/.ipynb_checkpoints/index-checkpoint.js src/.ipynb_checkpoints/index-checkpoint.ts
+node_modules
